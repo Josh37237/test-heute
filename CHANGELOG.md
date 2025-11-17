@@ -1,12 +1,5 @@
 # Changelog
 
-## [1.2.0](https://github.com/Josh37237/test-heute/compare/v1.1.0...v1.2.0) (2025-11-17)
-
-
-### Features
-
-* Werbebanner // Phased Deployment ([5e5a2b3](https://github.com/Josh37237/test-heute/commit/5e5a2b31b81f93203dd6e2903d19c916714c6eff))
-
 ## [1.1.0](https://github.com/Josh37237/test-heute/compare/v1.0.1...v1.1.0) (2025-11-17)
 
 
