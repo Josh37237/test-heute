@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/Josh37237/test-heute/compare/v1.2.0...v2.0.0) (2025-11-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* Major Change // Neues Webseiten Design
+
+### Features
+
+* Major Change // Neues Webseiten Design ([d606368](https://github.com/Josh37237/test-heute/commit/d6063685b83cafded81dd3d91a8a855d8411f87d))
+
 ## [1.1.0](https://github.com/Josh37237/test-heute/compare/v1.0.1...v1.1.0) (2025-11-17)
 
 
