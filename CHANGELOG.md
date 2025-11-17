@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/Josh37237/test-heute/compare/v1.0.1...v1.1.0) (2025-11-17)
+
+
+### Features
+
+* Dark Mode // Feature Flag ([5120f8b](https://github.com/Josh37237/test-heute/commit/5120f8bb583f68174fea8b65b30cedbce4179423))
+
 ## [1.0.1](https://github.com/Josh37237/test-heute/compare/v1.0.0...v1.0.1) (2025-11-17)
 
 
